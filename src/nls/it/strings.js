@@ -64,7 +64,7 @@ define({
     "ERROR_CREATING_FILE_TITLE"         : "Errore durante la creazione del file",
     "ERROR_CREATING_FILE"               : "Errore durante il tentativo di creare il file <span class='dialog-filename'>{0}</span>. {1}",
 
-    "ERROR_PREFS_CORRUPT_TITLE"         : Errore nella lettura delle preferenze",
+    "ERROR_PREFS_CORRUPT_TITLE"         : "Errore nella lettura delle preferenze",
     "ERROR_PREFS_CORRUPT"               : "Il tuo file di preferenze non è di formatto JSON valido.  Il file si aprirà per permetterti di correggiarlo. Per  {APP_NAME} per rendere disponibile i cambiamenti.",
 
 
